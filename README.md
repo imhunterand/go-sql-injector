@@ -22,7 +22,7 @@ go-sql-injector/
 
 1. Clone repository ini:
 ```
-git clone https://github.com/username/go-sql-injector.git
+git clone https://github.com/imhunterand/go-sql-injector.git
 ```
 2. Navigasi ke direktori proyek:
 ```
